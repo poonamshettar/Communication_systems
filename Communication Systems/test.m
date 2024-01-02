@@ -1,0 +1,1 @@
+S(t)=5*cos(10*pi*t)-5*sin(10t) * sin(10*pi*t)
